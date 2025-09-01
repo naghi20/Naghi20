@@ -1,40 +1,46 @@
-  DevOps Engineer Profile  \* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; } body { background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); color: #c9d1d9; line-height: 1.6; padding: 2rem; max-width: 1200px; margin: 0 auto; } .container { display: flex; flex-direction: column; gap: 2rem; } header { text-align: center; padding: 2rem 0; border-bottom: 1px solid #30363d; margin-bottom: 1rem; } h1 { font-size: 2.5rem; color: #58a6ff; margin-bottom: 1rem; } .tagline { font-size: 1.2rem; color: #8b949e; margin-bottom: 1.5rem; } .intro { font-size: 1.1rem; max-width: 800px; margin: 0 auto 1.5rem; text-align: center; line-height: 1.8; } .section { background: #161b22; border-radius: 10px; padding: 1.5rem; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); } .section-title { font-size: 1.5rem; color: #58a6ff; margin-bottom: 1.5rem; padding-bottom: 0.5rem; border-bottom: 2px solid #30363d; display: flex; align-items: center; gap: 0.5rem; } .tools-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); gap: 1.5rem; justify-items: center; } .tool-item { display: flex; flex-direction: column; align-items: center; gap: 0.5rem; transition: transform 0.3s ease; } .tool-item:hover { transform: translateY(-5px); } .tool-icon { font-size: 2.5rem; color: #58a6ff; } .tool-name { font-size: 0.85rem; text-align: center; color: #8b949e; } .contact-links { display: flex; justify-content: center; gap: 1.5rem; margin-top: 1rem; } .contact-link { display: flex; align-items: center; gap: 0.5rem; color: #58a6ff; text-decoration: none; padding: 0.5rem 1rem; border: 1px solid #30363d; border-radius: 6px; transition: all 0.3s ease; } .contact-link:hover { background: #1a5ebb; color: #fff; } @media (max-width: 768px) { .tools-grid { grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); gap: 1rem; } .contact-links { flex-direction: column; align-items: center; } }
+  DevOps Engineer - Bahrain  \* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; } body { background-color: #0d1117; color: #c9d1d9; line-height: 1.6; padding: 20px; max-width: 900px; margin: 0 auto; } .header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #30363d; } .profile-info { flex: 1; } .username { font-size: 24px; font-weight: 600; color: #f0f6fc; margin-bottom: 5px; } .title { font-size: 18px; color: #7d8590; margin-bottom: 15px; } .bio { font-size: 16px; margin-bottom: 15px; line-height: 1.5; } .stats { display: flex; gap: 15px; margin-top: 10px; color: #7d8590; font-size: 14px; } .follow-btn { background-color: #238636; color: white; border: 1px solid rgba(240, 246, 252, 0.1); border-radius: 6px; padding: 7px 16px; font-weight: 500; cursor: pointer; font-size: 14px; } .section { margin-bottom: 30px; } .section-title { font-size: 20px; font-weight: 600; margin-bottom: 15px; color: #f0f6fc; padding-bottom: 5px; border-bottom: 1px solid #30363d; } .tools-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); gap: 15px; margin-top: 15px; } .tool-item { display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 8px; text-align: center; transition: transform 0.2s; } .tool-item:hover { transform: translateY(-3px); border-color: #58a6ff; } .tool-icon { font-size: 32px; margin-bottom: 8px; color: #58a6ff; } .tool-name { font-size: 12px; color: #7d8590; } .contact-info { background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 15px; margin-top: 20px; } .contact-title { font-size: 18px; font-weight: 600; margin-bottom: 10px; color: #f0f6fc; } .email-link { color: #58a6ff; text-decoration: none; display: flex; align-items: center; gap: 8px; } .email-link:hover { text-decoration: underline; } .fire-icons { display: flex; gap: 5px; margin: 10px 0; } .fire-icon { color: #ff845e; } @media (max-width: 768px) { .header { flex-direction: column; } .follow-btn { margin-top: 15px; align-self: flex-start; } .tools-grid { grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); } }
 
 DevOps Engineer
 ===============
 
-Passionate about Cloud, DevOps, and Open Source
+Passionate about Cloud and DevOps
+---------------------------------
 
 Passionate DevOps Engineer from Bahrain, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.
+
+**7** followers • **4** following
+
+Follow
 
 Languages and Tools
 -------------------
 
-DevOps
+I work on DevOps, Microservices, containers, and everything around it. I'm looking to collaborate on Cloud-native Projects.
 
-Microservices
+Programming Language Stack
+--------------------------
 
-Containers
+Python
+
+Java
+
+JavaScript
+
+Golang
+
+Bash
+
+OS Stack
+--------
 
 Linux
 
 Ubuntu
 
-Programming Languages
----------------------
+Windows
 
-Bash
-
-Python
-
-Groovy
-
-Java
-
-Go
-
-DevOps Stack
-------------
+DevOps Stack I Know
+-------------------
 
 AWS
 
@@ -52,8 +58,8 @@ Prometheus
 
 Grafana
 
-Project Management
-------------------
+Project Management Stack
+------------------------
 
 Git
 
@@ -66,9 +72,6 @@ Editor
 
 VS Code
 
-Connect with Me
----------------
+### Connect with me
 
-📫 How to reach me: naghi@live.com
-
-[Email](mailto:naghi@live.com) [GitHub](https://github.com/yourusername) [LinkedIn](https://linkedin.com/in/yourprofile) [Twitter](https://twitter.com/yourprofile)
+📫 How to reach me: [naghi@live.com](mailto:naghi@live.com)
