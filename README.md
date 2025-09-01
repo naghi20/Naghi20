@@ -19,6 +19,7 @@ Languages and Tools
 
 I work on DevOps, Microservices, containers, and everything around it. I'm looking to collaborate on Cloud-native Projects.
 
+
 Programming Language Stack
 --------------------------
 
@@ -42,7 +43,7 @@ Ubuntu
 Windows
 
 
-DevOps Stack I Know
+DevOps Stack 
 -------------------
 
 AWS
