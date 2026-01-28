@@ -1,87 +1,85 @@
+<!-- Header / Banner -->
+<h1 align="center">Hi, I'm Ahmed Al Naghi 👋</h1>
 
+<p align="center">
+  <b>IT Cybersecurity | Cloud & Infrastructure | DevOps Engineer – Bahrain</b><br>
+  Passionate about Cloud, Automation, and DevOps Culture
+</p>
 
-Alamed AL Naghi
-===============
-IT cyber security , Cloud , infrastrcture ,DevOps Engineer - Bahrain
+---
 
+### 🚀 About Me
 
+- 🛡️ IT **cybersecurity**, **cloud**, **infrastructure**, and **DevOps** engineer based in Bahrain  
+- 🎓 Recent achievement: DevOps Engineer 6‑month bootcamp graduate  
+- 💼 Working with Cloud and DevOps for 3+ years  
+- 🤝 Open to **freelance projects** and collaboration on cloud‑native solutions  
 
-Recent achivment DevOps Engineer 6 months bootcamp 
----------------
+---
 
-Passionate about Cloud and DevOps
+### 🧰 Languages & Tools
 
-Passionate DevOps Engineer from Bahrain, working on Cloud and DevOps for 3+ years now. Feel free to reach out for any Freelance Projects.
+#### 💻 Programming Language Stack
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+</p>
 
-Languages and Tools
--------------------
+#### 🖥️ OS Stack
 
-I work on DevOps, Microservices, containers, and everything around it. I'm looking to collaborate on Cloud-native Projects.
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+</p>
 
+#### ⚙️ DevOps Stack
 
-Programming Language Stack
---------------------------
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ff9900" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42F6?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+</p>
 
-Python
+#### 📂 Project Management & VCS
 
-Java
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20CodePipeline-232F3E?logo=amazonaws&logoColor=ff9900" />
+</p>
 
-JavaScript
+#### 📝 Editor
 
-Golang
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
 
-Bash
+---
 
-OS Stack
---------
+### 📊 GitHub Stats
 
-Linux
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naghi20&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" />
+</p>
 
-Ubuntu
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naghi20&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-Windows
+---
 
+### 📫 Connect with Me
 
-DevOps Stack 
--------------------
-
-AWS
-
-Ansible
-
-Terraform
-
-Docker
-
-Kubernetes
-
-Nginx
-
-Prometheus
-
-Grafana
-
-
-Project Management Stack
-------------------------
-
-Git
-
-GitHub
-
-Bitbucket
-
-AWS codepipline 
-
-
-Editor
-------
-
-VS Code
-
-
-
-### Connect with me
-
-📫 How to reach me: [naghi@live.com](mailto:naghi@live.com)
+- Email: <a href="mailto:naghi@live.com">naghi@live.com</a>  
+- Feel free to reach out for **freelance projects**, collaborations, or DevOps consultations.
