@@ -36,7 +36,7 @@
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/dynamic/yaml" />
 </p>
 
 #### 🔒 Cybersecurity & SIEM Stack
