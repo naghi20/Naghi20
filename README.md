@@ -1,6 +1,5 @@
 <!-- Header / Banner -->
 <h1 align="center">Hi, I'm Ahmed Al Naghi 👋</h1>
-
 <p align="center">
   <b>IT Cybersecurity | Cloud & Infrastructure | DevOps Engineer – Bahrain</b><br>
   Passionate about Multi-Cloud Security, Automation, and SecOps Architecture
@@ -9,12 +8,11 @@
 ---
 
 ### 🚀 About Me
-
-- 🛡️ IT Engineer focused in **cybersecurity**, **cloud**, **infrastructure**, and **DevOps** based in Bahrain  
-- 🎓 Recent achievements: Cloud Engineer 6‑month bootcamp graduate | Kubernetes Production Best Practices Workshop | DevOps / MLOps / AIOps / LLM Program 
-- 💼 Working in I.T for almost 20 years, specializing in enterprise cybersecurity, cloud ecosystems, and **DevSecOps | MLOps | LLMOps | AIOps** for more than 3+ years  
+- 🛡️ IT Engineer focused in **cybersecurity**, **cloud**, **infrastructure**, and **DevOps** based in Bahrain.
+- 🎓 Recent achievements: Cloud Engineer 6‑month bootcamp graduate | Kubernetes Production Best Practices Workshop | DevOps / MLOps / AIOps / LLM Program.
+- 💼 Working in I.T for almost 20 years, specializing in enterprise cybersecurity, cloud ecosystems, and **DevSecOps | MLOps | LLMOps | AIOps** for more than 3+ years.
 - 🔬 **Cybersecurity Core Specialization:** Active administration of the **Microsoft Defender suite** (Endpoint, Identity, Office 365), Cloud SIEM orchestration via **Microsoft Sentinel**, Identity (IAM/MFA), Compliance policies (DLP, MIP, eDiscovery), and **McAfee Enterprise Security** matrices.
-- 🤝 Open to **freelance projects**, advanced security assessments, and collaborations on cloud‑native infrastructure solutions  
+- 🤝 Open to **freelance projects**, advanced security assessments, and collaborations on cloud‑native infrastructure solutions.
 
 ---
 
