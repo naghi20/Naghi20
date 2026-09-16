@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🛡️ IT Engineer Focused in **cybersecurity**, **cloud**, **infrastructure**, and **DevOps**  based in Bahrain  
-- 🎓 Recent achievement: DevOps Engineer 6‑month bootcamp graduate 
+- 🎓 Recent achievement: Cloud Engineer 6‑month bootcamp graduate  - k8s production best practices workshop - Devops/ MLOps / AIOps / LLM Program 
 - 💼 Working in I.T for almost 20 yeras , cybersecurity , Cloud and  DevSecOps | MLOps | LLMOps |  AIOps for more than 3+ years  
 - 🤝 Open to **freelance projects** and collaboration on cloud‑native solutions  
 
