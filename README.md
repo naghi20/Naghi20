@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>IT Cybersecurity | Cloud & Infrastructure | DevOps Engineer – Bahrain</b><br>
-  Passionate about Multi-Cloud Security, Automation, and SecOps Architecture
+  Passonation about Multi-Cloud Security, Automation, and SecOps Architecture
 </p>
 
 ---
@@ -22,72 +22,55 @@
 
 #### 💻 Programming & Scripting Stack
 
-<p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![PowerShell](https://shields.io)
+![Bash](https://shields.io)
+![Python](https://shields.io)
+![Java](https://shields.io)
+![JavaScript](https://shields.io)
+![Go](https://shields.io)
 
 #### 🖥️ OS Stack
 
-<p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Linux](https://shields.io)
+![Ubuntu](https://shields.io)
+![Windows Server](https://shields.io)
 
 #### 🔒 Cybersecurity & SIEM Stack
 
-<p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Microsoft Sentinel](https://shields.io)
+![Microsoft Defender](https://shields.io)
+![McAfee](https://shields.io)
+![Identity IAM | MFA](https://shields.io)
+![Compliance DLP | MIP](https://shields.io)
+![SecOps SIEM | SOAR](https://shields.io)
 
 #### ☁️ Multi-Cloud & DevOps Stack
 
-<p>
-  <!-- Cloud Ecosystems -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <!-- IaC & Config -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <!-- Containers & Orchestration -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <!-- CI/CD & GitOps -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <!-- Observability & Web -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Azure](https://shields.io)
+![Oracle OCI](https://shields.io)
+![AWS](https://shields.io)
+![Google Cloud](https://shields.io)
+![Terraform](https://shields.io)
+![Ansible](https://shields.io)
+![Docker](https://shields.io)
+![Kubernetes](https://shields.io)
+![Jenkins](https://shields.io)
+![Argo CD](https://shields.io)
+![Nginx](https://shields.io)
+![Prometheus](https://shields.io)
+![Grafana](https://shields.io)
 
 #### 📂 Project Management & VCS
 
-<p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Bitbucket](https://shields.io)
+![AWS CodePipeline](https://shields.io)
+![Jira](https://shields.io)
 
 #### 📝 Editor
 
-<p>
-  <img src="https://shields.io" />
-</p>
+![VS Code](https://shields.io)
 
 ---
 
