@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>IT Cybersecurity | Cloud & Infrastructure | DevOps Engineer – Bahrain</b><br>
-  Passonation about Multi-Cloud Security, Automation, and SecOps Architecture
+  Passionate about Multi-Cloud Security, Automation, and SecOps Architecture
 </p>
 
 ---
@@ -22,66 +22,83 @@
 
 #### 💻 Programming & Scripting Stack
 
-![PowerShell](https://shields.io)
-![Bash](https://shields.io)
-![Python](https://shields.io)
-![Java](https://shields.io)
-![JavaScript](https://shields.io)
-![Go](https://shields.io)
+<p>
+  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+</p>
 
 #### 🖥️ OS Stack
 
-![Linux](https://shields.io)
-![Ubuntu](https://shields.io)
-![Windows Server](https://shields.io)
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img src="https://shields.io" />
+</p>
 
 #### 🔒 Cybersecurity & SIEM Stack
 
-![Microsoft Sentinel](https://shields.io)
-![Microsoft Defender](https://shields.io)
-![McAfee](https://shields.io)
-![Identity IAM | MFA](https://shields.io)
-![Compliance DLP | MIP](https://shields.io)
-![SecOps SIEM | SOAR](https://shields.io)
+<p>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 #### ☁️ Multi-Cloud & DevOps Stack
 
-![Azure](https://shields.io)
-![Oracle OCI](https://shields.io)
-![AWS](https://shields.io)
-![Google Cloud](https://shields.io)
-![Terraform](https://shields.io)
-![Ansible](https://shields.io)
-![Docker](https://shields.io)
-![Kubernetes](https://shields.io)
-![Jenkins](https://shields.io)
-![Argo CD](https://shields.io)
-![Nginx](https://shields.io)
-![Prometheus](https://shields.io)
-![Grafana](https://shields.io)
+<p>
+  <!-- Cloud Ecosystems -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=ff9900" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
+  <!-- IaC & Config -->
+  <img src="https://img.shields.io/badge/Terraform-7B42F6?logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
+  <!-- Containers & Orchestration -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+  <!-- CI/CD & GitOps -->
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20CD-F24E1E?logo=argo&logoColor=white" />
+  <!-- Observability & Web -->
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+</p>
 
 #### 📂 Project Management & VCS
 
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Bitbucket](https://shields.io)
-![AWS CodePipeline](https://shields.io)
-![Jira](https://shields.io)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20CodePipeline-232F3E?logo=amazonaws&logoColor=ff9900" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
+</p>
 
 #### 📝 Editor
 
-![VS Code](https://shields.io)
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://vercel.app" alt="Ahmed's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naghi20&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://vercel.app" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naghi20&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
